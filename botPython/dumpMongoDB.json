@@ -1,0 +1,6091 @@
+[{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb38"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb39"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb3a"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb3b"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb3c"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb3d"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb3e"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb3f"
+  },
+  "rodada": 8,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb40"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb41"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb42"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb43"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb44"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb45"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb46"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb47"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb48"
+  },
+  "rodada": 17,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb49"
+  },
+  "rodada": 18,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb4a"
+  },
+  "rodada": 19,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bd9cb5a3529ad0628bb4b"
+  },
+  "rodada": 20,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb4c"
+  },
+  "rodada": 21,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb4d"
+  },
+  "rodada": 22,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb4e"
+  },
+  "rodada": 23,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb4f"
+  },
+  "rodada": 24,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb50"
+  },
+  "rodada": 25,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb51"
+  },
+  "rodada": 26,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb52"
+  },
+  "rodada": 27,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb53"
+  },
+  "rodada": 28,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb54"
+  },
+  "rodada": 29,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bd9cc5a3529ad0628bb55"
+  },
+  "rodada": 30,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf279d56ca941b16353a"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16353b"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16353c"
+  },
+  "rodada": 3,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16353d"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16353e"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16353f"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163540"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163541"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163542"
+  },
+  "rodada": 9,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163543"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163544"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163545"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163546"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163547"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163548"
+  },
+  "rodada": 15,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163549"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16354a"
+  },
+  "rodada": 17,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16354b"
+  },
+  "rodada": 18,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16354c"
+  },
+  "rodada": 19,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16354d"
+  },
+  "rodada": 20,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16354e"
+  },
+  "rodada": 21,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b16354f"
+  },
+  "rodada": 22,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163550"
+  },
+  "rodada": 23,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163551"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163552"
+  },
+  "rodada": 25,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163553"
+  },
+  "rodada": 26,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163554"
+  },
+  "rodada": 27,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163555"
+  },
+  "rodada": 28,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163556"
+  },
+  "rodada": 29,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bdf289d56ca941b163557"
+  },
+  "rodada": 30,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0cfcb4d12990d99e4a6"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4a7"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4a8"
+  },
+  "rodada": 3,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4a9"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4aa"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4ab"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4ac"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d0cb4d12990d99e4ad"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4ae"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4af"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b0"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b1"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b2"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b3"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b4"
+  },
+  "rodada": 15,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b5"
+  },
+  "rodada": 16,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b6"
+  },
+  "rodada": 17,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b7"
+  },
+  "rodada": 18,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b8"
+  },
+  "rodada": 19,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4b9"
+  },
+  "rodada": 20,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4ba"
+  },
+  "rodada": 21,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4bb"
+  },
+  "rodada": 22,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4bc"
+  },
+  "rodada": 23,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4bd"
+  },
+  "rodada": 24,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4be"
+  },
+  "rodada": 25,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4bf"
+  },
+  "rodada": 26,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4c0"
+  },
+  "rodada": 27,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4c1"
+  },
+  "rodada": 28,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4c2"
+  },
+  "rodada": 29,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0d1cb4d12990d99e4c3"
+  },
+  "rodada": 30,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f37ce0ac00f52decee"
+  },
+  "rodada": 1,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decef"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decf0"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decf1"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decf2"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decf3"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decf4"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f47ce0ac00f52decf5"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decf6"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decf7"
+  },
+  "rodada": 10,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decf8"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decf9"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decfa"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decfb"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decfc"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decfd"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decfe"
+  },
+  "rodada": 17,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52decff"
+  },
+  "rodada": 18,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded00"
+  },
+  "rodada": 19,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded01"
+  },
+  "rodada": 20,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded02"
+  },
+  "rodada": 21,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded03"
+  },
+  "rodada": 22,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded04"
+  },
+  "rodada": 23,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded05"
+  },
+  "rodada": 24,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded06"
+  },
+  "rodada": 25,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded07"
+  },
+  "rodada": 26,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded08"
+  },
+  "rodada": 27,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be0f57ce0ac00f52ded09"
+  },
+  "rodada": 28,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be0f67ce0ac00f52ded0a"
+  },
+  "rodada": 29,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be0f67ce0ac00f52ded0b"
+  },
+  "rodada": 30,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be10585f273aeec9c40d8"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40d9"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40da"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40db"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40dc"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40dd"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40de"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40df"
+  },
+  "rodada": 8,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e0"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e1"
+  },
+  "rodada": 10,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e2"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e3"
+  },
+  "rodada": 12,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e4"
+  },
+  "rodada": 13,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e5"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e6"
+  },
+  "rodada": 15,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e7"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e8"
+  },
+  "rodada": 17,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40e9"
+  },
+  "rodada": 18,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40ea"
+  },
+  "rodada": 19,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40eb"
+  },
+  "rodada": 20,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40ec"
+  },
+  "rodada": 21,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40ed"
+  },
+  "rodada": 22,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40ee"
+  },
+  "rodada": 23,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40ef"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40f0"
+  },
+  "rodada": 25,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40f1"
+  },
+  "rodada": 26,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40f2"
+  },
+  "rodada": 27,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40f3"
+  },
+  "rodada": 28,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be10685f273aeec9c40f4"
+  },
+  "rodada": 29,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be10785f273aeec9c40f5"
+  },
+  "rodada": 30,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be1102632b54db3b28089"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2808a"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2808b"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2808c"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2808d"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2808e"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2808f"
+  },
+  "rodada": 7,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28090"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28091"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28092"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28093"
+  },
+  "rodada": 11,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28094"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28095"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28096"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28097"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28098"
+  },
+  "rodada": 16,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b28099"
+  },
+  "rodada": 17,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2809a"
+  },
+  "rodada": 18,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2809b"
+  },
+  "rodada": 19,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2809c"
+  },
+  "rodada": 20,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1112632b54db3b2809d"
+  },
+  "rodada": 21,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b2809e"
+  },
+  "rodada": 22,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b2809f"
+  },
+  "rodada": 23,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a0"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a1"
+  },
+  "rodada": 25,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a2"
+  },
+  "rodada": 26,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a3"
+  },
+  "rodada": 27,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a4"
+  },
+  "rodada": 28,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a5"
+  },
+  "rodada": 29,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be1122632b54db3b280a6"
+  },
+  "rodada": 30,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be15436f4b488a2f1f58d"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15536f4b488a2f1f58e"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f58f"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f590"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f591"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f592"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f593"
+  },
+  "rodada": 7,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f594"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f595"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f596"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f597"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f598"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f599"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f59a"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f59b"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f59c"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f59d"
+  },
+  "rodada": 17,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f59e"
+  },
+  "rodada": 18,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f59f"
+  },
+  "rodada": 19,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a0"
+  },
+  "rodada": 20,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a1"
+  },
+  "rodada": 21,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a2"
+  },
+  "rodada": 22,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a3"
+  },
+  "rodada": 23,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a4"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a5"
+  },
+  "rodada": 25,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a6"
+  },
+  "rodada": 26,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a7"
+  },
+  "rodada": 27,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be15636f4b488a2f1f5a8"
+  },
+  "rodada": 28,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be15736f4b488a2f1f5a9"
+  },
+  "rodada": 29,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be15736f4b488a2f1f5aa"
+  },
+  "rodada": 30,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be5671acad488486f229a"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f229b"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f229c"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f229d"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f229e"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f229f"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a0"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a1"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a2"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a3"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a4"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a5"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a6"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a7"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a8"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22a9"
+  },
+  "rodada": 16,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22aa"
+  },
+  "rodada": 17,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22ab"
+  },
+  "rodada": 18,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22ac"
+  },
+  "rodada": 19,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22ad"
+  },
+  "rodada": 20,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22ae"
+  },
+  "rodada": 21,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22af"
+  },
+  "rodada": 22,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5681acad488486f22b0"
+  },
+  "rodada": 23,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b1"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b2"
+  },
+  "rodada": 25,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b3"
+  },
+  "rodada": 26,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b4"
+  },
+  "rodada": 27,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b5"
+  },
+  "rodada": 28,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b6"
+  },
+  "rodada": 29,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be5691acad488486f22b7"
+  },
+  "rodada": 30,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be618e92516ed2126d554"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be619e92516ed2126d555"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be619e92516ed2126d556"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be619e92516ed2126d557"
+  },
+  "rodada": 4,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be619e92516ed2126d558"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be619e92516ed2126d559"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be619e92516ed2126d55a"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d55b"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d55c"
+  },
+  "rodada": 9,
+  "esc_python": "pedra",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d55d"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d55e"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d55f"
+  },
+  "rodada": 12,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d560"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d561"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d562"
+  },
+  "rodada": 15,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d563"
+  },
+  "rodada": 16,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d564"
+  },
+  "rodada": 17,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d565"
+  },
+  "rodada": 18,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d566"
+  },
+  "rodada": 19,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d567"
+  },
+  "rodada": 20,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d568"
+  },
+  "rodada": 21,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d569"
+  },
+  "rodada": 22,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d56a"
+  },
+  "rodada": 23,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d56b"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d56c"
+  },
+  "rodada": 25,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d56d"
+  },
+  "rodada": 26,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d56e"
+  },
+  "rodada": 27,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d56f"
+  },
+  "rodada": 28,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d570"
+  },
+  "rodada": 29,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be61ae92516ed2126d571"
+  },
+  "rodada": 30,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66027965207d2bbf477"
+  },
+  "rodada": 1,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf478"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf479"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf47a"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf47b"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf47c"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf47d"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf47e"
+  },
+  "rodada": 8,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf47f"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf480"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf481"
+  },
+  "rodada": 11,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf482"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf483"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf484"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf485"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf486"
+  },
+  "rodada": 16,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf487"
+  },
+  "rodada": 17,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf488"
+  },
+  "rodada": 18,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf489"
+  },
+  "rodada": 19,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf48a"
+  },
+  "rodada": 20,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf48b"
+  },
+  "rodada": 21,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf48c"
+  },
+  "rodada": 22,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf48d"
+  },
+  "rodada": 23,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf48e"
+  },
+  "rodada": 24,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf48f"
+  },
+  "rodada": 25,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf490"
+  },
+  "rodada": 26,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf491"
+  },
+  "rodada": 27,
+  "esc_python": "pedra",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf492"
+  },
+  "rodada": 28,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be66127965207d2bbf493"
+  },
+  "rodada": 29,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be66227965207d2bbf494"
+  },
+  "rodada": 30,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6872643c7373d5b9d14"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6872643c7373d5b9d15"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6872643c7373d5b9d16"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d17"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d18"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d19"
+  },
+  "rodada": 6,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d1a"
+  },
+  "rodada": 7,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d1b"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d1c"
+  },
+  "rodada": 9,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d1d"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d1e"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d1f"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d20"
+  },
+  "rodada": 13,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d21"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d22"
+  },
+  "rodada": 15,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d23"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d24"
+  },
+  "rodada": 17,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d25"
+  },
+  "rodada": 18,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d26"
+  },
+  "rodada": 19,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d27"
+  },
+  "rodada": 20,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d28"
+  },
+  "rodada": 21,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d29"
+  },
+  "rodada": 22,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d2a"
+  },
+  "rodada": 23,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d2b"
+  },
+  "rodada": 24,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d2c"
+  },
+  "rodada": 25,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d2d"
+  },
+  "rodada": 26,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d2e"
+  },
+  "rodada": 27,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6882643c7373d5b9d2f"
+  },
+  "rodada": 28,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be6892643c7373d5b9d30"
+  },
+  "rodada": 29,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6892643c7373d5b9d31"
+  },
+  "rodada": 30,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6c2b29ec180e35d07b6"
+  },
+  "rodada": 1,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07b7"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07b8"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07b9"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07ba"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07bb"
+  },
+  "rodada": 6,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07bc"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07bd"
+  },
+  "rodada": 8,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07be"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07bf"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07c0"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07c1"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07c2"
+  },
+  "rodada": 13,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07c3"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07c4"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6c3b29ec180e35d07c5"
+  },
+  "rodada": 16,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07c6"
+  },
+  "rodada": 17,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07c7"
+  },
+  "rodada": 18,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07c8"
+  },
+  "rodada": 19,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07c9"
+  },
+  "rodada": 20,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07ca"
+  },
+  "rodada": 21,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07cb"
+  },
+  "rodada": 22,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07cc"
+  },
+  "rodada": 23,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07cd"
+  },
+  "rodada": 24,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07ce"
+  },
+  "rodada": 25,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07cf"
+  },
+  "rodada": 26,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07d0"
+  },
+  "rodada": 27,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07d1"
+  },
+  "rodada": 28,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07d2"
+  },
+  "rodada": 29,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6c4b29ec180e35d07d3"
+  },
+  "rodada": 30,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6fd0ae7d7a31a05e408"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6fe0ae7d7a31a05e409"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6fe0ae7d7a31a05e40a"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e40b"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e40c"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e40d"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e40e"
+  },
+  "rodada": 7,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e40f"
+  },
+  "rodada": 8,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e410"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e411"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e412"
+  },
+  "rodada": 11,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e413"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e414"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e415"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e416"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e417"
+  },
+  "rodada": 16,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e418"
+  },
+  "rodada": 17,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e419"
+  },
+  "rodada": 18,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e41a"
+  },
+  "rodada": 19,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e41b"
+  },
+  "rodada": 20,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e41c"
+  },
+  "rodada": 21,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e41d"
+  },
+  "rodada": 22,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e41e"
+  },
+  "rodada": 23,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e41f"
+  },
+  "rodada": 24,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e420"
+  },
+  "rodada": 25,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e421"
+  },
+  "rodada": 26,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e422"
+  },
+  "rodada": 27,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be6ff0ae7d7a31a05e423"
+  },
+  "rodada": 28,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7000ae7d7a31a05e424"
+  },
+  "rodada": 29,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7000ae7d7a31a05e425"
+  },
+  "rodada": 30,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7562a626589dc17ec35"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec36"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec37"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec38"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec39"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec3a"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec3b"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec3c"
+  },
+  "rodada": 8,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec3d"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec3e"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec3f"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec40"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec41"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec42"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec43"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec44"
+  },
+  "rodada": 16,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec45"
+  },
+  "rodada": 17,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec46"
+  },
+  "rodada": 18,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec47"
+  },
+  "rodada": 19,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec48"
+  },
+  "rodada": 20,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec49"
+  },
+  "rodada": 21,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7572a626589dc17ec4a"
+  },
+  "rodada": 22,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec4b"
+  },
+  "rodada": 23,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec4c"
+  },
+  "rodada": 24,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec4d"
+  },
+  "rodada": 25,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec4e"
+  },
+  "rodada": 26,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec4f"
+  },
+  "rodada": 27,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec50"
+  },
+  "rodada": 28,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec51"
+  },
+  "rodada": 29,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7582a626589dc17ec52"
+  },
+  "rodada": 30,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7b4b48c6a4c2cf380db"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380dc"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380dd"
+  },
+  "rodada": 3,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380de"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380df"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e0"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e1"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e2"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e3"
+  },
+  "rodada": 9,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e4"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e5"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e6"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e7"
+  },
+  "rodada": 13,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e8"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380e9"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380ea"
+  },
+  "rodada": 16,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380eb"
+  },
+  "rodada": 17,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380ec"
+  },
+  "rodada": 18,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380ed"
+  },
+  "rodada": 19,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380ee"
+  },
+  "rodada": 20,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380ef"
+  },
+  "rodada": 21,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f0"
+  },
+  "rodada": 22,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f1"
+  },
+  "rodada": 23,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f2"
+  },
+  "rodada": 24,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f3"
+  },
+  "rodada": 25,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f4"
+  },
+  "rodada": 26,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f5"
+  },
+  "rodada": 27,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f6"
+  },
+  "rodada": 28,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f7"
+  },
+  "rodada": 29,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638be7b5b48c6a4c2cf380f8"
+  },
+  "rodada": 30,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be8a91ca96efcb5a749cd"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749ce"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749cf"
+  },
+  "rodada": 3,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d0"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d1"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d2"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d3"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d4"
+  },
+  "rodada": 8,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d5"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d6"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d7"
+  },
+  "rodada": 11,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d8"
+  },
+  "rodada": 12,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749d9"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749da"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638be8aa1ca96efcb5a749db"
+  },
+  "rodada": 15,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabac193e546384b89d4"
+  },
+  "rodada": 1,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabbc193e546384b89d5"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabbc193e546384b89d6"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabbc193e546384b89d7"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beabbc193e546384b89d8"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabbc193e546384b89d9"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabbc193e546384b89da"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89db"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89dc"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89dd"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89de"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89df"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89e0"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89e1"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beabcc193e546384b89e2"
+  },
+  "rodada": 15,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb11ea300cdc7c189ee0"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb12ea300cdc7c189ee1"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb12ea300cdc7c189ee2"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee3"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee4"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee5"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee6"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee7"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee8"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189ee9"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189eea"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189eeb"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189eec"
+  },
+  "rodada": 13,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189eed"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb13ea300cdc7c189eee"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beb4b0b53e3cbb3206815"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206816"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206817"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206818"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206819"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb320681a"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb320681b"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb320681c"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb320681d"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb320681e"
+  },
+  "rodada": 10,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb320681f"
+  },
+  "rodada": 11,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206820"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206821"
+  },
+  "rodada": 13,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206822"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb4c0b53e3cbb3206823"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb99b12bdd7122c9d45d"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb9ab12bdd7122c9d45e"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb9ab12bdd7122c9d45f"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d460"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d461"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d462"
+  },
+  "rodada": 6,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d463"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d464"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d465"
+  },
+  "rodada": 9,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d466"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d467"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d468"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d469"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d46a"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beb9bb12bdd7122c9d46b"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bebf25087e41780a8b94b"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b94c"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b94d"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b94e"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b94f"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b950"
+  },
+  "rodada": 6,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b951"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b952"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b953"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b954"
+  },
+  "rodada": 10,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b955"
+  },
+  "rodada": 11,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b956"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b957"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b958"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bebf35087e41780a8b959"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed06f4937dbab6808021"
+  },
+  "rodada": 1,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808022"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808023"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808024"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808025"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808026"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808027"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808028"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab6808029"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab680802a"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab680802b"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab680802c"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab680802d"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab680802e"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed07f4937dbab680802f"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bed5afbc47971a0e68f25"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f26"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f27"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f28"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f29"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f2a"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f2b"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bed5bfbc47971a0e68f2c"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f2d"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f2e"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f2f"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f30"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f31"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f32"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed5cfbc47971a0e68f33"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed86af3052fa42d53e06"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e07"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e08"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e09"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e0a"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e0b"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e0c"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e0d"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e0e"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e0f"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e10"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e11"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e12"
+  },
+  "rodada": 13,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e13"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed87af3052fa42d53e14"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bed9e1a60099942443d92"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed9f1a60099942443d93"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed9f1a60099942443d94"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed9f1a60099942443d95"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bed9f1a60099942443d96"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed9f1a60099942443d97"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bed9f1a60099942443d98"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d99"
+  },
+  "rodada": 8,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d9a"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d9b"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d9c"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d9d"
+  },
+  "rodada": 12,
+  "esc_python": "pedra",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d9e"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443d9f"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638beda01a60099942443da0"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638befd5a28031e2d1d7e2e8"
+  },
+  "rodada": 1,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2e9"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2ea"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2eb"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2ec"
+  },
+  "rodada": 5,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2ed"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2ee"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2ef"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2f0"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2f1"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2f2"
+  },
+  "rodada": 11,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2f3"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2f4"
+  },
+  "rodada": 13,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638befd7a28031e2d1d7e2f5"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638befd8a28031e2d1d7e2f6"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf08f459c186a9f736685"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f736686"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f736687"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f736688"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f736689"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f73668a"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f73668b"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f73668c"
+  },
+  "rodada": 8,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f73668d"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf090459c186a9f73668e"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf091459c186a9f73668f"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf091459c186a9f736690"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf091459c186a9f736691"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf091459c186a9f736692"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf091459c186a9f736693"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf0f02a7d0639dbc5bcdf"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce0"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce1"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce2"
+  },
+  "rodada": 4,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce3"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce4"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce5"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce6"
+  },
+  "rodada": 8,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce7"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce8"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bce9"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bcea"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bceb"
+  },
+  "rodada": 13,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bcec"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf0f12a7d0639dbc5bced"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf1238aa00b99f1f01f12"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f13"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f14"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f15"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f16"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f17"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f18"
+  },
+  "rodada": 7,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f19"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f1a"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f1b"
+  },
+  "rodada": 10,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f1c"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1248aa00b99f1f01f1d"
+  },
+  "rodada": 12,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf1258aa00b99f1f01f1e"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1258aa00b99f1f01f1f"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1258aa00b99f1f01f20"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf179d90e81ee50bc92fd"
+  },
+  "rodada": 1,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc92fe"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc92ff"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9300"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9301"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9302"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9303"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9304"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9305"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf17ad90e81ee50bc9306"
+  },
+  "rodada": 10,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf17bd90e81ee50bc9307"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf17bd90e81ee50bc9308"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf17bd90e81ee50bc9309"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf17bd90e81ee50bc930a"
+  },
+  "rodada": 14,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf17bd90e81ee50bc930b"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd71"
+  },
+  "rodada": 1,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd72"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd73"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd74"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd75"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd76"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd77"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd78"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd79"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd7a"
+  },
+  "rodada": 10,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd7b"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd7c"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd7d"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd7e"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf1e9d140b43e3c4ebd7f"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf20b80dcb9746819b2fa"
+  },
+  "rodada": 1,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20c80dcb9746819b2fb"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20c80dcb9746819b2fc"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20c80dcb9746819b2fd"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf20c80dcb9746819b2fe"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b2ff"
+  },
+  "rodada": 6,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b300"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b301"
+  },
+  "rodada": 8,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b302"
+  },
+  "rodada": 9,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b303"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b304"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b305"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b306"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b307"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf20d80dcb9746819b308"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf23996219883b1bf27ff"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2800"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2801"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2802"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2803"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2804"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2805"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2806"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2807"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2808"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf2809"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf280a"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf280b"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf280c"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf23a96219883b1bf280d"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf288c07328cf1748c27e"
+  },
+  "rodada": 1,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c27f"
+  },
+  "rodada": 2,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c280"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c281"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c282"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c283"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c284"
+  },
+  "rodada": 7,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c285"
+  },
+  "rodada": 8,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c286"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c287"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c288"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c289"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf289c07328cf1748c28a"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf28ac07328cf1748c28b"
+  },
+  "rodada": 14,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf28ac07328cf1748c28c"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf2b02b76678a8e1991f3"
+  },
+  "rodada": 1,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991f4"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991f5"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991f6"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991f7"
+  },
+  "rodada": 5,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991f8"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991f9"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991fa"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991fb"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991fc"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991fd"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991fe"
+  },
+  "rodada": 12,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e1991ff"
+  },
+  "rodada": 13,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e199200"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2b12b76678a8e199201"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf2d8d74dfc2650e0de13"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de14"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de15"
+  },
+  "rodada": 3,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de16"
+  },
+  "rodada": 4,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de17"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de18"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de19"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de1a"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de1b"
+  },
+  "rodada": 9,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de1c"
+  },
+  "rodada": 10,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de1d"
+  },
+  "rodada": 11,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de1e"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de1f"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de20"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf2d9d74dfc2650e0de21"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf7eb4cb91b7b60eaa22d"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa22e"
+  },
+  "rodada": 2,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa22f"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa230"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa231"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa232"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa233"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa234"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa235"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf7ec4cb91b7b60eaa236"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf7ed4cb91b7b60eaa237"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638bf7ed4cb91b7b60eaa238"
+  },
+  "rodada": 12,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638bf7ed4cb91b7b60eaa239"
+  },
+  "rodada": 13,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638bf7ed4cb91b7b60eaa23a"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638bf7ed4cb91b7b60eaa23b"
+  },
+  "rodada": 15,
+  "esc_python": "pedra",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c08bc9ea1bf8afd47bec3"
+  },
+  "rodada": 1,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bec4"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bec5"
+  },
+  "rodada": 3,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bec6"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bec7"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bec8"
+  },
+  "rodada": 6,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bec9"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47beca"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47becb"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47becc"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47becd"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bece"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47becf"
+  },
+  "rodada": 13,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bed0"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c08be9ea1bf8afd47bed1"
+  },
+  "rodada": 15,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c0cd10dabf944cf1c8f77"
+  },
+  "rodada": 1,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c0cd20dabf944cf1c8f78"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c0cd20dabf944cf1c8f79"
+  },
+  "rodada": 3,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c0cd20dabf944cf1c8f7a"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c0cd20dabf944cf1c8f7b"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c0cd20dabf944cf1c8f7c"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f7d"
+  },
+  "rodada": 7,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f7e"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f7f"
+  },
+  "rodada": 9,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f80"
+  },
+  "rodada": 10,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f81"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f82"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f83"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f84"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c0cd30dabf944cf1c8f85"
+  },
+  "rodada": 15,
+  "esc_python": "spock",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be00730d"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be00730e"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be00730f"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007310"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007311"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007312"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007313"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007314"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007315"
+  },
+  "rodada": 9,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007316"
+  },
+  "rodada": 10,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007317"
+  },
+  "rodada": 11,
+  "esc_python": "spock",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007318"
+  },
+  "rodada": 12,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be007319"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be00731a"
+  },
+  "rodada": 14,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c2f907b2e1a50be00731b"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c2fd377a05beb46fa46fc"
+  },
+  "rodada": 1,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c2fd377a05beb46fa46fd"
+  },
+  "rodada": 2,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa46fe"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa46ff"
+  },
+  "rodada": 4,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4700"
+  },
+  "rodada": 5,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4701"
+  },
+  "rodada": 6,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4702"
+  },
+  "rodada": 7,
+  "esc_python": "tesoura",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4703"
+  },
+  "rodada": 8,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4704"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4705"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4706"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4707"
+  },
+  "rodada": 12,
+  "esc_python": "spock",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c2fd477a05beb46fa4708"
+  },
+  "rodada": 13,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c2fd577a05beb46fa4709"
+  },
+  "rodada": 14,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c2fd577a05beb46fa470a"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c3620780d38fdf5898549"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c3620780d38fdf589854a"
+  },
+  "rodada": 2,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c3620780d38fdf589854b"
+  },
+  "rodada": 3,
+  "esc_python": "tesoura",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf589854c"
+  },
+  "rodada": 4,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf589854d"
+  },
+  "rodada": 5,
+  "esc_python": "lagarto",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf589854e"
+  },
+  "rodada": 6,
+  "esc_python": "tesoura",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf589854f"
+  },
+  "rodada": 7,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898550"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898551"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898552"
+  },
+  "rodada": 10,
+  "esc_python": "papel",
+  "esc_java": "pedra"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898553"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898554"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898555"
+  },
+  "rodada": 13,
+  "esc_python": "pedra",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898556"
+  },
+  "rodada": 14,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c3621780d38fdf5898557"
+  },
+  "rodada": 15,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f7531fa5984196112b"
+  },
+  "rodada": 1,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c36f8531fa5984196112c"
+  },
+  "rodada": 2,
+  "esc_python": "spock",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c36f8531fa5984196112d"
+  },
+  "rodada": 3,
+  "esc_python": "lagarto",
+  "esc_java": "lagarto"
+},{
+  "_id": {
+    "$oid": "638c36f8531fa5984196112e"
+  },
+  "rodada": 4,
+  "esc_python": "pedra",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f8531fa5984196112f"
+  },
+  "rodada": 5,
+  "esc_python": "papel",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c36f8531fa59841961130"
+  },
+  "rodada": 6,
+  "esc_python": "pedra",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961131"
+  },
+  "rodada": 7,
+  "esc_python": "lagarto",
+  "esc_java": "tesoura"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961132"
+  },
+  "rodada": 8,
+  "esc_python": "lagarto",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961133"
+  },
+  "rodada": 9,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961134"
+  },
+  "rodada": 10,
+  "esc_python": "tesoura",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961135"
+  },
+  "rodada": 11,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961136"
+  },
+  "rodada": 12,
+  "esc_python": "papel",
+  "esc_java": "spock"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961137"
+  },
+  "rodada": 13,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961138"
+  },
+  "rodada": 14,
+  "esc_python": "lagarto",
+  "esc_java": "papel"
+},{
+  "_id": {
+    "$oid": "638c36f9531fa59841961139"
+  },
+  "rodada": 15,
+  "esc_python": "papel",
+  "esc_java": "tesoura"
+}]
