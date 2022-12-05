@@ -29,7 +29,6 @@ public class ResultsDAO {
             pstm.setString(3,lista(esc_python));
             //Execucao da query
             pstm.execute();
-            System.out.println("Aeroporto Salvo com Sucesso");
         } catch (Exception e) {
             e.printStackTrace();
         }finally {
