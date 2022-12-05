@@ -63,8 +63,8 @@ def dif(client_socket, markov_chain, rodada):
     comp = adversario(client_socket)
     global jogAnt
     # atualização da matriz da cadeia de markov(5x5 - atributos das linhas e colunas são as jogadas possíveis)
-    # Linhas: jogada do bot python
-    # Coluna: jogada feita pelo bot Java na mesma rodada
+    # Linhas: jogada do bot python na rodada ANTEIOR
+    # Coluna: jogada feita pelo bot Java na rodada POSTERIOR
     if jogAnt != 99:
         atlz_markov(jogAnt, comp, markov_chain)
     jogAnt = jog
@@ -117,7 +117,7 @@ def atlz_markov(ant_jogada, prox_jogada, markov_chain):
 
 
 # A ideia da jogada do bot python é pegar a sua jogada da rodada anterior
-# e armazenar na matriz da cadeia de markov com a jogada do bot Java (adversário) na mesma rodada
+# e armazenar na matriz da cadeia de markov com a jogada do bot Java (adversário) na próxima rodada
 # a partir disso pegar essa relação para predizar qual seria a próxima jogada do adversário a fim
 # de que se faça escolha correta para derrotá-lo
 def jogada():
